@@ -12,8 +12,8 @@
 
 ## Screenshot
 
-![This is an image of how the webpage looks as it is now.](./assets\images\Webpage-Screenshot.png)
+![This is an image of how the webpage looks as it is now.](./assets/images/Webpage-Screenshot.png)
 
 ### Github Deployed Link
 
-    https://kjkhalil.github.io/Challenge1/
+https://kjkhalil.github.io/Challenge1/
